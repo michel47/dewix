@@ -1,0 +1,351 @@
+--2024-11-26 19:14:53--  https://neal.fun/password-game/
+Resolving neal.fun (neal.fun)... 104.22.29.82, 104.22.28.82, 172.67.20.7, ...
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Date: Tue, 26 Nov 2024 18:14:53 GMT
+  Content-Type: text/html; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=0, must-revalidate
+  Link: </_nuxt/26c24c8.js>; rel="preload"; as=script, </_nuxt/6bd6cb3.js>; rel="preload"; as=script, </_nuxt/7ca8a56.js>; rel="preload"; as=script, </_nuxt/57a5676.js>; rel="preload"; as=script, </_nuxt/6b074e1.js>; rel="preload"; as=script, </_nuxt/0d0a72c.js>; rel="preload"; as=script, </_nuxt/29fc085.js>; rel="preload"; as=script, </_nuxt/a560b8a.js>; rel="preload"; as=script, </_nuxt/39017cb.js>; rel="preload"; as=script, </_nuxt/static/1730312300/password-game/state.js>; rel="preload"; as=script, </_nuxt/static/1730312300/password-game/payload.js>; rel="preload"; as=script, </_nuxt/static/1730312300/manifest.js>; rel="preload"; as=script
+  referrer-policy: strict-origin-when-cross-origin
+  x-content-type-options: nosniff
+  Report-To: {"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=BvosMIDphxHgZ9fvPMObITa%2BUzWfctQOoYukiPGSLeQsjlTtr84BhaQ6iYw8zU2fJ97Fu6Bs17cFSzdMxX7HeY8yQmkrrRQYWcmiDJR8nwZmgEPZTV5weaGpEA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  Vary: Accept-Encoding
+  CF-Cache-Status: DYNAMIC
+  Set-Cookie: __cf_bm=_RU0Rqb2v.SzkYApJIN1w7BkXyM6rv9.xjc5aNwrJ.s-1732644893-1.0.1.1-iBXzVlS.E3nlUG__DPWBK2GSTxQxvOM.ue2JS8bi_U5Vq0OqcGknbXeVHD8T0cvqEJ5jlvog2Da1ohgcY..ShA; path=/; expires=Tue, 26-Nov-24 18:44:53 GMT; domain=.neal.fun; HttpOnly; Secure
+  Server: cloudflare
+  CF-RAY: 8e8bdc5abf531ca5-AMS
+  alt-svc: h3=":443"; ma=86400
+Length: unspecified [text/html]
+Saving to: ‘_index.htm’
+
+     0K .......... .......... .......... .......               1.47M=0.02s
+
+2024-11-26 19:14:54 (1.47 MB/s) - ‘_index.htm’ saved [38053]
+
+Converting links in _index.htm... 32.
+1-31
+Converted links in 1 files in 0.001 seconds.
+--2024-11-26 19:14:56--  https://neal.fun/password-game/
+Resolving neal.fun (neal.fun)... 104.22.29.82, 104.22.28.82, 172.67.20.7, ...
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-11-26 19:14:56 ERROR 403: Forbidden.
+
+--2024-11-26 19:14:56--  https://neal.fun/favicons/password-game.png
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4075 (4.0K) [image/png]
+Saving to: ‘page/password-game.png’
+
+     0K ...                                                   100%  111M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:57 (111 MB/s) - ‘page/password-game.png’ saved [4075/4075]
+
+--2024-11-26 19:14:57--  https://www.youtube.com/s/player/89dfc5b3/www-widgetapi.vflset/www-widgetapi.js
+Resolving www.youtube.com (www.youtube.com)... 172.217.168.14, 142.250.203.110, 172.217.168.78, ...
+Connecting to www.youtube.com (www.youtube.com)|172.217.168.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30884 (30K) [text/javascript]
+Saving to: ‘page/89dfc5b3/www-widgetapi.vflset/www-widgetapi.js’
+
+     0K .......... .......... ..........                      100%  748K=0.04s
+
+2024-11-26 19:14:57 (748 KB/s) - ‘page/89dfc5b3/www-widgetapi.vflset/www-widgetapi.js’ saved [30884/30884]
+
+--2024-11-26 19:14:57--  https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4556406968269041
+Resolving pagead2.googlesyndication.com (pagead2.googlesyndication.com)... 142.250.203.98, 2a00:1450:400a:803::2002
+Connecting to pagead2.googlesyndication.com (pagead2.googlesyndication.com)|142.250.203.98|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191144 (187K) [text/javascript]
+Saving to: ‘page/adsbygoogle.js?client=ca-pub-4556406968269041’
+
+     0K .......... .......... .......... .......... .......... 26%  679K 0s
+    50K .......... .......... .......... .......... .......... 53% 1.09M 0s
+   100K .......... .......... .......... .......... .......... 80% 1.31M 0s
+   150K .......... .......... .......... ......               100% 1.02M=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:57 (978 KB/s) - ‘page/adsbygoogle.js?client=ca-pub-4556406968269041’ saved [191144/191144]
+
+--2024-11-26 19:14:57--  https://www.youtube.com/iframe_api
+Connecting to www.youtube.com (www.youtube.com)|172.217.168.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/iframe_api’
+
+     0K                                                        1.28M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:57 (1.28 MB/s) - ‘page/iframe_api’ saved [993]
+
+--2024-11-26 19:14:57--  https://neal.fun/_nuxt/26c24c8.js
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/26c24c8.js’
+
+     0K ...                                                    3.77M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:58 (3.77 MB/s) - ‘page/26c24c8.js’ saved [3239]
+
+--2024-11-26 19:14:58--  https://neal.fun/_nuxt/6bd6cb3.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/6bd6cb3.js’
+
+     0K .......... .......... .......... .......... .......... 1.18M
+    50K .......... .......... .......... .......... ..........  999K
+   100K .......... .......... .......... .......... .......... 1.18M
+   150K .......... .......... .......... .......... .......... 1.39M
+   200K .......... .......... ...                              1.56M=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:58 (1.19 MB/s) - ‘page/6bd6cb3.js’ saved [229161]
+
+--2024-11-26 19:14:58--  https://neal.fun/_nuxt/7ca8a56.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/7ca8a56.js’
+
+     0K .......... .......... .......... .......... .......... 1.36M
+    50K .......... .......... .                                4.21M=0.04s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:58 (1.71 MB/s) - ‘page/7ca8a56.js’ saved [73406]
+
+--2024-11-26 19:14:58--  https://neal.fun/_nuxt/57a5676.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/57a5676.js’
+
+     0K .......... ..                                           351M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:58 (351 MB/s) - ‘page/57a5676.js’ saved [12649]
+
+--2024-11-26 19:14:58--  https://neal.fun/_nuxt/6b074e1.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/6b074e1.js’
+
+     0K .......... .......... .......... .......... .......... 2.19M
+    50K .......... .......... .......... .......... .......... 1.69M
+   100K .......... .......... .........                        1.51M=0.07s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:58 (1.80 MB/s) - ‘page/6b074e1.js’ saved [132679]
+
+--2024-11-26 19:14:58--  https://neal.fun/_nuxt/0d0a72c.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/0d0a72c.js’
+
+     0K .......... ......                                      1.82M=0.009s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:59 (1.82 MB/s) - ‘page/0d0a72c.js’ saved [17132]
+
+--2024-11-26 19:14:59--  https://neal.fun/_nuxt/29fc085.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/29fc085.js’
+
+     0K .......... .                                            260M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:14:59 (260 MB/s) - ‘page/29fc085.js’ saved [11423]
+
+--2024-11-26 19:14:59--  https://neal.fun/_nuxt/a560b8a.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/a560b8a.js’
+
+     0K .......... .......... .......... .......... .......... 1.02M
+    50K .......... .......... .......... .......... ..........  989K
+   100K .......... .......... .......... .......... ..........  698K
+   150K .......... .......... .......... .......... .......... 75.6K
+   200K .......... .......... .......... .......... .......... 1.29M
+   250K .......... .......... .......... .......... .......... 1.59M
+   300K .......... .......... .......... .......... .......... 1.29M
+   350K .......... .......... .......... .......... ..........  884K
+   400K .......... .......... .......... .......... .......... 1.72M
+   450K .......... .......... .......... ....                  2.21M=1.0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:00 (467 KB/s) - ‘page/a560b8a.js’ saved [496283]
+
+--2024-11-26 19:15:00--  https://neal.fun/_nuxt/39017cb.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/39017cb.js’
+
+     0K .......... .......... .....                            4.06M=0.006s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:00 (4.06 MB/s) - ‘page/39017cb.js’ saved [26259]
+
+--2024-11-26 19:15:00--  https://neal.fun/_nuxt/fonts/Roboto-Medium.70ace38.woff2
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 64732 (63K) [font/woff2]
+Saving to: ‘page/Roboto-Medium.70ace38.woff2’
+
+     0K .......... .......... .......... .......... .......... 79% 1.46M 0s
+    50K .......... ...                                        100% 84.0M=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:01 (1.84 MB/s) - ‘page/Roboto-Medium.70ace38.woff2’ saved [64732/64732]
+
+--2024-11-26 19:15:01--  https://neal.fun/_nuxt/fonts/Roboto-Bold.002079d.woff2
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 63920 (62K) [font/woff2]
+Saving to: ‘page/Roboto-Bold.002079d.woff2’
+
+     0K .......... .......... .......... .......... .......... 80% 1.68M 0s
+    50K .......... ..                                         100%  285M=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:01 (2.09 MB/s) - ‘page/Roboto-Bold.002079d.woff2’ saved [63920/63920]
+
+--2024-11-26 19:15:01--  https://neal.fun/_nuxt/fonts/Wingdings.2c01544.woff2
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38968 (38K) [font/woff2]
+Saving to: ‘page/Wingdings.2c01544.woff2’
+
+     0K .......... .......... .......... ........             100% 2.38M=0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:01 (2.38 MB/s) - ‘page/Wingdings.2c01544.woff2’ saved [38968/38968]
+
+--2024-11-26 19:15:01--  https://neal.fun/_nuxt/fonts/Comic-Sans.633e967.woff2
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69956 (68K) [font/woff2]
+Saving to: ‘page/Comic-Sans.633e967.woff2’
+
+     0K .......... .......... .......... .......... .......... 73% 90.3K 0s
+    50K .......... ........                                   100% 1.31M=0.6s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:02 (120 KB/s) - ‘page/Comic-Sans.633e967.woff2’ saved [69956/69956]
+
+--2024-11-26 19:15:02--  https://neal.fun/password-game/chevron.svg
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘page/chevron.svg’
+
+     0K                                                         326M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:02 (326 MB/s) - ‘page/chevron.svg’ saved [628]
+
+--2024-11-26 19:15:02--  https://neal.fun/password-game/sparkle.gif
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 335050 (327K) [image/gif]
+Saving to: ‘page/sparkle.gif’
+
+     0K .......... .......... .......... .......... .......... 15% 1.36M 0s
+    50K .......... .......... .......... .......... .......... 30% 1.19M 0s
+   100K .......... .......... .......... .......... .......... 45%  798K 0s
+   150K .......... .......... .......... .......... .......... 61% 1.10M 0s
+   200K .......... .......... .......... .......... .......... 76% 75.6K 0s
+   250K .......... .......... .......... .......... .......... 91% 1.18M 0s
+   300K .......... .......... .......                         100% 1.30M=0.9s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:03 (361 KB/s) - ‘page/sparkle.gif’ saved [335050/335050]
+
+--2024-11-26 19:15:03--  https://neal.fun/_nuxt/static/1730312300/password-game/state.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/1730312300/password-game/state.js’
+
+     0K .......                                                2.57G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:03 (2.57 GB/s) - ‘page/1730312300/password-game/state.js’ saved [8087]
+
+--2024-11-26 19:15:03--  https://neal.fun/_nuxt/static/1730312300/password-game/payload.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/1730312300/password-game/payload.js’
+
+     0K                                                        38.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:03 (38.4 MB/s) - ‘page/1730312300/password-game/payload.js’ saved [68]
+
+--2024-11-26 19:15:03--  https://neal.fun/_nuxt/static/1730312300/manifest.js
+Reusing existing connection to neal.fun:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: ‘page/1730312300/manifest.js’
+
+     0K .....                                                  2.49G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:03 (2.49 GB/s) - ‘page/1730312300/manifest.js’ saved [5575]
+
+--2024-11-26 19:15:03--  https://www.googletagmanager.com/
+Resolving www.googletagmanager.com (www.googletagmanager.com)... 172.217.168.72, 2a00:1450:400a:803::2008
+Connecting to www.googletagmanager.com (www.googletagmanager.com)|172.217.168.72|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2024-11-26 19:15:03 ERROR 404: Not Found.
+
+--2024-11-26 19:15:03--  https://www.googletagmanager.com/gtag/js?id=G-L7MJCSDHKV&l=dataLayer
+Reusing existing connection to www.googletagmanager.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/javascript]
+Saving to: ‘page/js?id=G-L7MJCSDHKV&l=dataLayer’
+
+     0K .......... .......... .......... .......... ..........  559K
+    50K .......... .......... .......... .......... ..........  138K
+   100K .......... .......... .......... .......... ..........  838K
+   150K .......... .......... .......... .......... .......... 1.24M
+   200K .......... .......... .......... .......... .......... 1.33M
+   250K .......... .......... .......... .......... ........   1.15M=0.6s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:04 (475 KB/s) - ‘page/js?id=G-L7MJCSDHKV&l=dataLayer’ saved [305958]
+
+--2024-11-26 19:15:04--  https://neal.fun/
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-11-26 19:15:04 ERROR 403: Forbidden.
+
+--2024-11-26 19:15:04--  https://neal.fun/password-game/title.svg
+Connecting to neal.fun (neal.fun)|104.22.29.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘page/title.svg’
+
+     0K .......... ...                                         92.1K=0.1s
+
+Last-modified header missing -- time-stamps turned off.
+2024-11-26 19:15:05 (92.1 KB/s) - ‘page/title.svg’ saved [13489]
+
+FINISHED --2024-11-26 19:15:05--
+Total wall clock time: 8.8s
+Downloaded: 24 files, 2.0M in 3.9s (534 KB/s)
+Converted links in 0 files in 0 seconds.
